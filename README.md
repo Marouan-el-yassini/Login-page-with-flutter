@@ -13,10 +13,7 @@ This project showcases a beautifully designed and fully functional login page bu
 
 - **Modern UI/UX:** Clean and attractive design with smooth animations.
 - **Responsive Layout:** Adapts gracefully for mobile and tablet screens.
-- **Form Validation:** Real-time validation for email and password fields.
-- **Password Visibility Toggle:** Show/hide password option for better usability.
-- **Ready for Integration:** Easily connect to your authentication backend.
-
+- **Form Validation:** Real-time validation for username and password fields.
 ---
 
 ## 🚀 Getting Started
@@ -41,15 +38,13 @@ This project showcases a beautifully designed and fully functional login page bu
 
 - **Layout:**  
   - Centered form with logo  
-  - "Forgot password?" and "Sign up" links  
-  - Material design shadows and animations
+  - "Sign up" links  
+  - Material design shadows 
 
 ---
 
 ## 🛠️ Customization
 
-- **Change Logo:**  
-  Replace the image in the `assets/` directory and update the path in your code.
 - **Theme Colors:**  
   Edit the color values in your `ThemeData` to match your brand.
 
