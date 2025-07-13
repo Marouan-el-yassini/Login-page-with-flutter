@@ -56,7 +56,3 @@ This project showcases a beautifully designed and fully functional login page bu
 ---
 
 
-
-<p align="center">
-  Made with ❤️ using Flutter
-</p>
